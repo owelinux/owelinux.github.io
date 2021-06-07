@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>晚点咖啡的博客</title>
+  
+  <subtitle>云原生学习之路</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lovek8s.github.io/"/>
+  <updated>2021-03-29T09:03:20.835Z</updated>
+  <id>https://lovek8s.github.io/</id>
+  
+  <author>
+    <name>late coffer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://lovek8s.github.io/archives/0.html"/>
+    <id>https://lovek8s.github.io/archives/0.html</id>
+    <published>2021-03-29T09:03:20.835Z</published>
+    <updated>2021-03-29T09:03:20.835Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Kubernetes-配置-kubeconfig-访问多个集群&quot;&gt;&lt;a href=&quot;#Kubernetes-配置-kubeconfig-访问多个集群&quot; class=&quot;headerlink&quot; title=&quot;Kubernetes 配置 kubeconfig
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://lovek8s.github.io/archives/0.html"/>
+    <id>https://lovek8s.github.io/archives/0.html</id>
+    <published>2021-03-29T09:03:20.831Z</published>
+    <updated>2021-03-29T09:03:20.831Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;jenkins-devops-piplne发送邮件配置&quot;&gt;&lt;a href=&quot;#jenkins-devops-piplne发送邮件配置&quot; class=&quot;headerlink&quot; title=&quot;jenkins devops
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://lovek8s.github.io/archives/0.html"/>
+    <id>https://lovek8s.github.io/archives/0.html</id>
+    <published>2021-03-29T09:03:20.828Z</published>
+    <updated>2021-03-29T09:03:20.828Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;精简-Docker-镜像的技巧&quot;&gt;&lt;a href=&quot;#精简-Docker-镜像的技巧&quot; class=&quot;headerlink&quot; title=&quot;精简 Docker 镜像的技巧&quot;&gt;&lt;/a&gt;精简 Docker 镜像的技巧&lt;/h1&gt;&lt;p&gt;精简 Docker
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>k8s Sidecar 注入讲解及应用</title>
+    <link href="https://lovek8s.github.io/archives/e92d7d36.html"/>
+    <id>https://lovek8s.github.io/archives/e92d7d36.html</id>
+    <published>2021-03-26T08:21:54.000Z</published>
+    <updated>2021-03-29T09:03:20.834Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;k8s-Sidecar-注入讲解及应用&quot;&gt;&lt;a href=&quot;#k8s-Sidecar-注入讲解及应用&quot; class=&quot;headerlink&quot; title=&quot;k8s Sidecar 注入讲解及应用&quot;&gt;&lt;/a&gt;k8s Sidecar 注入讲解及应用&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="云原生" scheme="https://lovek8s.github.io/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    
+    
+      <category term="k8s" scheme="https://lovek8s.github.io/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人收藏工具</title>
+    <link href="https://lovek8s.github.io/archives/ab6f0eee.html"/>
+    <id>https://lovek8s.github.io/archives/ab6f0eee.html</id>
+    <published>2021-02-18T06:46:25.000Z</published>
+    <updated>2021-06-07T07:51:18.985Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;在线工具&quot;&gt;&lt;a href=&quot;#在线工具&quot; class=&quot;headerlink&quot; title=&quot;在线工具&quot;&gt;&lt;/a&gt;在线工具&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://tool.chinaz.com/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>K8S重启Deployment的方式</title>
+    <link href="https://lovek8s.github.io/archives/5cd23594.html"/>
+    <id>https://lovek8s.github.io/archives/5cd23594.html</id>
+    <published>2019-12-27T03:21:54.000Z</published>
+    <updated>2021-03-29T09:03:20.838Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;K8S重启Deployment的方式&quot;&gt;&lt;a href=&quot;#K8S重启Deployment的方式&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="云原生" scheme="https://lovek8s.github.io/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    
+    
+      <category term="k8s" scheme="https://lovek8s.github.io/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kubernetes 之 Ingress 使用总结</title>
+    <link href="https://lovek8s.github.io/archives/2f521ea8.html"/>
+    <id>https://lovek8s.github.io/archives/2f521ea8.html</id>
+    <published>2018-12-27T03:21:54.000Z</published>
+    <updated>2021-03-29T09:03:20.826Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;kubernetes-之-Ingress-使用总结&quot;&gt;&lt;a href=&quot;#kubernetes-之-Ingress-使用总结&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="云原生" scheme="https://lovek8s.github.io/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    
+    
+      <category term="k8s" scheme="https://lovek8s.github.io/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k8s pvc扩容</title>
+    <link href="https://lovek8s.github.io/archives/9dacadea.html"/>
+    <id>https://lovek8s.github.io/archives/9dacadea.html</id>
+    <published>2018-12-27T03:21:54.000Z</published>
+    <updated>2021-03-29T09:03:20.827Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;k8s-pvc扩容&quot;&gt;&lt;a href=&quot;#k8s-pvc扩容&quot; class=&quot;headerlink&quot; title=&quot;k8s pvc扩容&quot;&gt;&lt;/a&gt;k8s pvc扩容&lt;/h1&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitLab Helm Charts 配置AD域</title>
+    <link href="https://lovek8s.github.io/archives/d1b746a1.html"/>
+    <id>https://lovek8s.github.io/archives/d1b746a1.html</id>
+    <published>2018-12-06T02:23:54.000Z</published>
+    <updated>2021-03-29T09:03:20.823Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;GitLab-Helm-Charts-配置AD域&quot;&gt;&lt;a href=&quot;#GitLab-Helm-Charts-配置AD域&quot; class=&quot;headerlink&quot; title=&quot;GitLab
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>jira 配置AD域</title>
+    <link href="https://lovek8s.github.io/archives/bd1aff98.html"/>
+    <id>https://lovek8s.github.io/archives/bd1aff98.html</id>
+    <published>2018-12-06T02:23:54.000Z</published>
+    <updated>2021-03-29T09:03:20.820Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;jira-配置AD域&quot;&gt;&lt;a href=&quot;#jira-配置AD域&quot; class=&quot;headerlink&quot; title=&quot;jira 配置AD域&quot;&gt;&lt;/a&gt;jira
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JIRA 7.13.0 实践笔记</title>
+    <link href="https://lovek8s.github.io/archives/5f63d71c.html"/>
+    <id>https://lovek8s.github.io/archives/5f63d71c.html</id>
+    <published>2018-12-05T02:23:54.000Z</published>
+    <updated>2021-03-29T09:03:20.821Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;JIRA-7-13-0-实践笔记&quot;&gt;&lt;a href=&quot;#JIRA-7-13-0-实践笔记&quot; class=&quot;headerlink&quot; title=&quot;JIRA 7.13.0
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker Swarm 学习笔记总结</title>
+    <link href="https://lovek8s.github.io/archives/3227c071.html"/>
+    <id>https://lovek8s.github.io/archives/3227c071.html</id>
+    <published>2018-11-28T10:23:54.000Z</published>
+    <updated>2021-03-29T09:03:20.817Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;Docker-Swarm-学习笔记总结&quot;&gt;&lt;a href=&quot;#Docker-Swarm-学习笔记总结&quot; class=&quot;headerlink&quot; title=&quot;Docker Swarm
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用rpmbuild自定义构建rpm包</title>
+    <link href="https://lovek8s.github.io/archives/d1c91b93.html"/>
+    <id>https://lovek8s.github.io/archives/d1c91b93.html</id>
+    <published>2018-09-20T09:29:54.000Z</published>
+    <updated>2021-03-29T09:03:20.812Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;使用rpmbuild自定义构建rpm包&quot;&gt;&lt;a href=&quot;#使用rpmbuild自定义构建rpm包&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 系列02-docker常用命令</title>
+    <link href="https://lovek8s.github.io/archives/88e80668.html"/>
+    <id>https://lovek8s.github.io/archives/88e80668.html</id>
+    <published>2018-09-19T02:29:54.000Z</published>
+    <updated>2021-03-29T09:03:20.815Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;Docker-系列02-docker常用命令&quot;&gt;&lt;a href=&quot;#Docker-系列02-docker常用命令&quot; class=&quot;headerlink&quot; title=&quot;Docker
+        
+      
+    
+    </summary>
+    
+      <category term="linux 容器与虚拟化" scheme="https://lovek8s.github.io/categories/linux-%E5%AE%B9%E5%99%A8%E4%B8%8E%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
+    
+    
+      <category term="linux  docker" scheme="https://lovek8s.github.io/tags/linux-docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 系列01-docker安装</title>
+    <link href="https://lovek8s.github.io/archives/ef57bbb7.html"/>
+    <id>https://lovek8s.github.io/archives/ef57bbb7.html</id>
+    <published>2018-09-12T10:29:54.000Z</published>
+    <updated>2021-03-29T09:03:20.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;Docker-系列01-docker安装&quot;&gt;&lt;a href=&quot;#Docker-系列01-docker安装&quot; class=&quot;headerlink&quot; title=&quot;Docker
+        
+      
+    
+    </summary>
+    
+      <category term="linux 容器与虚拟化" scheme="https://lovek8s.github.io/categories/linux-%E5%AE%B9%E5%99%A8%E4%B8%8E%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
+    
+    
+      <category term="linux  docker" scheme="https://lovek8s.github.io/tags/linux-docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux shell中&amp;&gt;file,2&gt;&amp;1,1&gt;&amp;2区别</title>
+    <link href="https://lovek8s.github.io/archives/7c357ced.html"/>
+    <id>https://lovek8s.github.io/archives/7c357ced.html</id>
+    <published>2018-09-10T10:29:54.000Z</published>
+    <updated>2021-03-29T09:03:20.810Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;linux-shell中-amp-gt-file-2-gt-amp-1-1-gt-amp-2区别&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux 系统时区更改</title>
+    <link href="https://lovek8s.github.io/archives/9221d952.html"/>
+    <id>https://lovek8s.github.io/archives/9221d952.html</id>
+    <published>2018-09-10T10:29:54.000Z</published>
+    <updated>2021-03-29T09:03:20.810Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;linux-系统时区更改&quot;&gt;&lt;a href=&quot;#linux-系统时区更改&quot; class=&quot;headerlink&quot; title=&quot;linux 系统时区更改&quot;&gt;&lt;/a&gt;linux
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux 根据进程/端口排错</title>
+    <link href="https://lovek8s.github.io/archives/bea17661.html"/>
+    <id>https://lovek8s.github.io/archives/bea17661.html</id>
+    <published>2018-09-10T10:29:54.000Z</published>
+    <updated>2021-03-29T09:03:20.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;linux-根据进程-端口排错&quot;&gt;&lt;a href=&quot;#linux-根据进程-端口排错&quot; class=&quot;headerlink&quot; title=&quot;linux 根据进程/端口排错&quot;&gt;&lt;/a&gt;linux
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://lovek8s.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Let&#39;s Encrypt通配符HTTPS证书申请</title>
+    <link href="https://lovek8s.github.io/archives/aebc49f0.html"/>
+    <id>https://lovek8s.github.io/archives/aebc49f0.html</id>
+    <published>2018-09-06T02:44:54.000Z</published>
+    <updated>2021-03-29T09:03:20.809Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;Let’s-Encrypt通配符HTTPS证书申请&quot;&gt;&lt;a href=&quot;#Let’s-Encrypt通配符HTTPS证书申请&quot; class=&quot;headerlink&quot; title=&quot;Let’s
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="https" scheme="https://lovek8s.github.io/tags/https/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos yum安装mysql5.7</title>
+    <link href="https://lovek8s.github.io/archives/30f05cdb.html"/>
+    <id>https://lovek8s.github.io/archives/30f05cdb.html</id>
+    <published>2018-09-04T08:02:54.000Z</published>
+    <updated>2021-03-29T09:03:20.807Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;content&lt;br&gt;{:toc}&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#centos yum安装mysql5.7&lt;/p&gt;&lt;p&gt;在测试开发环境，初始化一个数据库，通常选择yum来安装，本文将常见的mysqlyum源及安装方式梳理&lt;/p&gt;&lt;h2 id=&quot;系统环境&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://lovek8s.github.io/categories/linux/"/>
+    
+    
+      <category term="mysql" scheme="https://lovek8s.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+</feed>

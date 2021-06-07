@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /awesome/
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /fonts/
+
+Sitemap: https://lovek8s.github.io/sitemap.xml
+Sitemap: https://lovek8s.github.io/baidusitemap.xml
